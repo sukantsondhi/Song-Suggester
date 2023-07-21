@@ -1,5 +1,3 @@
-// java -jar assignment1Tester.jar
-
 import java.util.*;
 
 class TreeNode {
